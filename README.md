@@ -1,7 +1,11 @@
 # IEEE-CIS-Fraud-Detection
 This project was run on RStudios
 
-This project is part of a Kaggle competition to benchmark machine learning models on a challenging large-scale dataset. 
+This project was sourced from Kaggle. 
+
+For additional resources and the dataset you can follow the link below:
+
+https://www.kaggle.com/code/johnnytay/fraud-detection-with-vesta-dataset
 
 **Problem statement** 
 
