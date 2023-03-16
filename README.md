@@ -3,7 +3,7 @@ This project was run on RStudios
 
 Below is the link to view the project:
 
-Link: file:///C:/Users/risao/Downloads/R-MLproject--group-1.html
+file:///Users/macbook/Downloads/R-MLproject--group-1%20(1).html
 
 This project is part of a Kaggle competition to benchmark machine learning models on a challenging large-scale dataset. 
 
